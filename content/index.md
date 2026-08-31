@@ -1,6 +1,8 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Level up STEM
 ---
+Welcome to Level Up STEM, where textbook theories become playable realities through interactive simulations and gamified challenges.
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
