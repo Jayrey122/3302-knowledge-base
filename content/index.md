@@ -42,3 +42,10 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
+## Main Categories
+* [[01-foundations-and-theory/index|Foundations and Theory]]
+* [[02-gamification-mechanics/index|Gamification Mechanics]]
+* [[03-simulation-tools/index|Simulation Tools]]
+* [[04-disciplinary-case-studies/index|Disciplinary Case Studies]]
+* [[05-pedagogy-and-assessment/index|Pedagogy and Assessment]]
+* [[06-future-trends/index|Future Trends]]
