@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Future Trends/index.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,21 +185,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "7665b5ccd2afcf6f",
+  "active": "084b88a1f0276f9d",
   "lastOpenFiles": [
-    "New folder",
-    "content/Pedagogy and Assessment/index.md",
-    "content/Disciplinary Case Studies/index.md",
-    "content/Gamification Mechanics/Challenges and Quests.md",
+    "content/Simulation Tools/index.md",
+    "content/Gamification Mechanics/popular-gamification-features.webp",
+    "content/Gamification Mechanics/points-and-rewards.png",
     "content/Gamification Mechanics/Points and Rewards.md",
+    "content/Gamification Mechanics/levels-in-gamification.webp",
     "content/Gamification Mechanics/Levels and Progression.md",
     "content/Gamification Mechanics/Leaderboards and Competition.md",
-    "content/Gamification Mechanics/Badges and Achievements.md",
-    "content/Gamification Mechanics/badges-achievements.jpg",
     "content/Gamification Mechanics/index.md",
-    "content/Gamification Mechanics/levels-in-gamification.webp",
-    "content/Gamification Mechanics/points-and-rewards.png",
-    "content/Gamification Mechanics/popular-gamification-features.webp",
+    "content/Gamification Mechanics/Challenges and Quests.md",
+    "content/Gamification Mechanics/badges-achievements.jpg",
+    "content/Gamification Mechanics/Badges and Achievements.md",
+    "content/Pedagogy and Assessment/index.md",
+    "content/Future Trends/index.md",
+    "content/Foundations and Theory/index.md",
+    "content/Disciplinary Case Studies/index.md",
+    "New folder",
     "3302-knowledge-base/quartz",
     "3302-knowledge-base/content/Testing/index.md",
     "3302-knowledge-base/content/About/Untitled.md",
@@ -227,11 +230,8 @@
     "3302-knowledge-base/content/03-simulation-tools",
     "3302-knowledge-base/content/01-foundations-and-theory",
     "3302-knowledge-base/content/02-gamification-mechanics",
-    "3302-knowledge-base/content",
     "README.md",
-    "content/Testing/index.md",
     "pointsandrewards.png",
-    "points.md",
     "points and rewards.png"
   ]
 }
