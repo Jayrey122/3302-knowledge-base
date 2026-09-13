@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/02-gamification-mechanics/Leaderboards and Competition.md",
+                "file": "content/02-gamification-mechanics/Badges and Achievements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leaderboards and Competition"
+              "title": "Badges and Achievements"
             }
           }
         ]
@@ -187,6 +187,13 @@
   },
   "active": "084b88a1f0276f9d",
   "lastOpenFiles": [
+    "content/02-gamification-mechanics/index.md",
+    "content/02-gamification-mechanics/popular-gamification-features.webp",
+    "content/02-gamification-mechanics/points-and-rewards.png",
+    "content/02-gamification-mechanics/Points and Rewards.md",
+    "content/02-gamification-mechanics/levels-in-gamification.webp",
+    "content/02-gamification-mechanics/Levels and Progression.md",
+    "content/02-gamification-mechanics/Leaderboards and Competition.md",
     "content/02-gamification-mechanics/Challenges and Quests.md",
     "content/02-gamification-mechanics/badges-achievements.jpg",
     "content/02-gamification-mechanics/Badges and Achievements.md",
@@ -219,16 +226,9 @@
     "3302-knowledge-base/content/02-gamification-mechanics",
     "3302-knowledge-base/content",
     "README.md",
-    "content/02-gamification-mechanics/index.md",
     "content/05-pedagogy-and-assessment/index.md",
     "content/04-disciplinary-case-studies/index.md",
-    "content/02-gamification-mechanics/popular-gamification-features.webp",
-    "content/02-gamification-mechanics/points-and-rewards.png",
-    "content/02-gamification-mechanics/levels-in-gamification.webp",
     "content/Testing/index.md",
-    "content/02-gamification-mechanics/Points and Rewards.md",
-    "content/02-gamification-mechanics/Levels and Progression.md",
-    "content/02-gamification-mechanics/Leaderboards and Competition.md",
     "pointsandrewards.png",
     "points.md",
     "points and rewards.png"
