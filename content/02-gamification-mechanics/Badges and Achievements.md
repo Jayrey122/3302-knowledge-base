@@ -1,6 +1,6 @@
 # Badges and Achievements
 
-Badges and achievements are visual signs that show a student has reached a goal or mastered skill. They are often used in gamification. In gamification badges can make accomplishments easier to notice because they give studdents a clear record of what they have completed or mastered. 
+Badges and achievements are visual signs that show a student has reached a goal or mastered skill. They are often used in gamification. In gamification badges can make accomplishments easier to notice because they give students a clear record of what they have completed or mastered. 
 
 ## What Badges Represent
 

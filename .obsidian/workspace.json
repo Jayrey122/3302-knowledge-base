@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/02-gamification-mechanics/Badges and Achievements.md",
+                "file": "content/02-gamification-mechanics/Leaderboards and Competition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Badges and Achievements"
+              "title": "Leaderboards and Competition"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "084b88a1f0276f9d",
   "lastOpenFiles": [
+    "content/02-gamification-mechanics/Challenges and Quests.md",
+    "content/02-gamification-mechanics/badges-achievements.jpg",
+    "content/02-gamification-mechanics/Badges and Achievements.md",
     "3302-knowledge-base/quartz",
     "3302-knowledge-base/content/Testing/index.md",
     "3302-knowledge-base/content/About/Untitled.md",
@@ -215,14 +218,10 @@
     "3302-knowledge-base/content/01-foundations-and-theory",
     "3302-knowledge-base/content/02-gamification-mechanics",
     "3302-knowledge-base/content",
-    "3302-knowledge-base",
     "README.md",
     "content/02-gamification-mechanics/index.md",
-    "content/02-gamification-mechanics/Badges and Achievements.md",
     "content/05-pedagogy-and-assessment/index.md",
     "content/04-disciplinary-case-studies/index.md",
-    "content/02-gamification-mechanics/Challenges and Quests.md",
-    "content/02-gamification-mechanics/badges-achievements.jpg",
     "content/02-gamification-mechanics/popular-gamification-features.webp",
     "content/02-gamification-mechanics/points-and-rewards.png",
     "content/02-gamification-mechanics/levels-in-gamification.webp",
