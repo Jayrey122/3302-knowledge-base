@@ -1,3 +1,4 @@
+
 # Challenges and Quests
 
 Challenges and quests give gamified activities and assignments a purpose. A challange asks users to complete a goal. A quest often adds a story, theme, or series of connected tasks. These elements can make an activity feel more like an adventure than a simple checklist.

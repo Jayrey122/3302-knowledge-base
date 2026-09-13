@@ -1,3 +1,4 @@
+
 # Leaderboards and Competition
 
 Leaderboards and competition are gamification mechanics that compare progress, scores, and achievements. A leaderboard also shows the highest scores, the number of completed challenges, and the progress of different teams. Competition can add energy to a gamified experience, but it must be designed carefully.

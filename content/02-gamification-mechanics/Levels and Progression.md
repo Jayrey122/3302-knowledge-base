@@ -1,3 +1,4 @@
+
 # Levels and Progression
 
 Levels and progression systems organize an experience into steps. Students begin with basic tasks and gradually move towards more difficult goals. This structure is common in gamified activities to make a large goal feel more manageable and achievable.

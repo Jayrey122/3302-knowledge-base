@@ -1,3 +1,4 @@
+
 # Points and Rewards
 
 Points and rewards are very common parts of gamification. They give students recognition when they complete an activity, reach a goal, or show improvement. In a gamified learning environment points can make progress visible. Instead of working towards one finaly score at the end of the unit students can earn smaller amounts of recognition as they complete different tasks.
