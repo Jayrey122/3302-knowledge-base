@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/05-pedagogy-and-assessment/index.md",
+                "file": "content/02-gamification-mechanics/Badges and Achievements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Badges and Achievements"
             }
           }
         ]
@@ -185,18 +185,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "eed1529b140ea521",
+  "active": "7665b5ccd2afcf6f",
   "lastOpenFiles": [
-    "content/04-disciplinary-case-studies/index.md",
     "content/05-pedagogy-and-assessment/index.md",
+    "content/04-disciplinary-case-studies/index.md",
     "content/02-gamification-mechanics/index.md",
     "content/02-gamification-mechanics/Challenges and Quests.md",
     "content/02-gamification-mechanics/Badges and Achievements.md",
-    "badges-achievements.jpg",
+    "content/02-gamification-mechanics/badges-achievements.jpg",
     "README.md",
-    "popular-gamification-features.webp",
-    "points-and-rewards.png",
-    "levels-in-gamification.webp",
+    "content/02-gamification-mechanics/popular-gamification-features.webp",
+    "content/02-gamification-mechanics/points-and-rewards.png",
+    "content/02-gamification-mechanics/levels-in-gamification.webp",
     "content/Testing/index.md",
     "content/Testing",
     "content/02-gamification-mechanics/Points and Rewards.md",
