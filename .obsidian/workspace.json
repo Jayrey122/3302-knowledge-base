@@ -14,11 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "content/index.md",
+
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Untitled"
             }
           }
         ]
@@ -187,14 +188,37 @@
   },
   "active": "084b88a1f0276f9d",
   "lastOpenFiles": [
+    "content/Future Trends/index.md",
+    "content/Example doc 01.md",
+    "content/Foundations and Theory/index.md",
+    "content/Disciplinary Case Studies/index.md",
+    "content/05-pedagogy-and-assessment/desktop.ini",
+    "content/04-disciplinary-case-studies",
+    "content/05-pedagogy-and-assessment",
+    "content/01-foundations-and-theory",
+    "content/02-gamification-mechanics",
+    "content/03-simulation-tools",
+    "content/example-category-01",
+    "content/example-category-02",
+    "05-pedagogy-and-assessment",
+    "content/example-folder-01",
+    "content/Pedagogy and Assessment/index.md",
+    "content/Gamification Mechanics/Challenges and Quests.md",
     "content/Simulation Tools/index.md",
     "content/Gamification Mechanics/popular-gamification-features.webp",
     "content/Gamification Mechanics/points-and-rewards.png",
+
     "content/Gamification Mechanics/Points and Rewards.md",
     "content/Gamification Mechanics/levels-in-gamification.webp",
     "content/Gamification Mechanics/Levels and Progression.md",
     "content/Gamification Mechanics/Leaderboards and Competition.md",
     "content/Gamification Mechanics/index.md",
+    "content/Gamification Mechanics/Levels and Progression.md",
+    "content/Gamification Mechanics/Leaderboards and Competition.md",
+    "content/Gamification Mechanics/index.md",
+    "content/Gamification Mechanics/levels-in-gamification.webp",
+    "content/Gamification Mechanics/points-and-rewards.png",
+    "content/Gamification Mechanics/popular-gamification-features.webp",
     "content/Gamification Mechanics/Challenges and Quests.md",
     "content/Gamification Mechanics/badges-achievements.jpg",
     "content/Gamification Mechanics/Badges and Achievements.md",
@@ -204,6 +228,7 @@
     "content/Disciplinary Case Studies/index.md",
     "New folder",
     "3302-knowledge-base/quartz",
+
     "3302-knowledge-base/content/Testing/index.md",
     "3302-knowledge-base/content/About/Untitled.md",
     "3302-knowledge-base/content/06-future-trends/index.md",
@@ -221,7 +246,6 @@
     "3302-knowledge-base/content/02-gamification-mechanics/Challenges and Quests.md",
     "3302-knowledge-base/content/02-gamification-mechanics/badges-achievements.jpg",
     "3302-knowledge-base/content/02-gamification-mechanics/Badges and Achievements.md",
-    "3302-knowledge-base/content/Testing",
     "3302-knowledge-base/content/index.md",
     "3302-knowledge-base/content/About",
     "3302-knowledge-base/content/06-future-trends",
@@ -230,6 +254,7 @@
     "3302-knowledge-base/content/03-simulation-tools",
     "3302-knowledge-base/content/01-foundations-and-theory",
     "3302-knowledge-base/content/02-gamification-mechanics",
+
     "README.md",
     "pointsandrewards.png",
     "points and rewards.png"
