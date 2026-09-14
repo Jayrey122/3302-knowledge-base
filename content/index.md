@@ -1,6 +1,7 @@
 ---
 title: Level up STEM
 ---
+![[Silver-STEM-Badge.webp]]
 Welcome to Level Up STEM, where textbook theories become playable realities through interactive simulations and gamified challenges.
 
 ## The index page

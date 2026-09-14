@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1d74f36348bc447b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7350341d4667d1f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "835c91d47f848c65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae6d0df2554e4c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccc00a1975b4924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a9778fb9f291ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c76b479f192ce86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da48257eddc82ee6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0370d9124c71217a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcfda8e3319308d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad738d408ff1627c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/01-foundations-and-theory/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0ca3824b5cceb319",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/01-foundations-and-theory/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "60650159f418056c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4ea12dce9fbb4b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9002de16d44936fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/01-foundations-and-theory/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "835c91d47f848c65",
+  "lastOpenFiles": [
+    "content/05-pedagogy-and-assessment/Pedagogy and Assessment index.md",
+    "content/02-gamification-mechanics/Gamification Mechanics index.md",
+    "05-pedagogy-and-assessment/index.md",
+    "05-pedagogy-and-assessment",
+    "content/01-foundations-and-theory/index.md",
+    "quartz/docs/index.md",
+    "content/example-category-01/index.md",
+    "content/example-folder-02/Example doc 03.md",
+    "content/example-folder-02",
+    "content/example-folder-01/Example doc 02.md",
+    "content/example-folder-01",
+    "content/example-category-02/index.md",
+    "content/example-category-02",
+    "content/example-category-01",
+    "content/Example doc 01.md",
+    "Example doc 01.md",
+    "content/04-disciplinary-case-studies/index.md",
+    "content/index.md",
+    "quartz/docs/plugins/index.md",
+    "content/07-math/index.md",
+    "content/07-math",
+    "content/01-foundations-and-theory/inde.md",
+    "content/06-future-trends/index.md",
+    "content/03-simulation-tools/index.md",
+    "content/About/Untitled.md",
+    "content/06-future-trends",
+    "content/03-simulation-tools",
+    "content/05-pedagogy-and-assessment",
+    "content/04-disciplinary-case-studies"
+  ]
+}

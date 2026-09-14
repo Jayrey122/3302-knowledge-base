@@ -1,3 +1,0 @@
----
-title: Disciplinary Case Studies
----
